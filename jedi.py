@@ -27,9 +27,8 @@ QUESTIONS
 num_of_questions = 10
 
 sweet_little_lies = """
-- God them you will be so rich!
-- Bitchs must love your smart ass!
-- OMG you are so smart !
+- God demm you are amazing!
+- OMG you are so smart!
 - You are doing great man!
 """
 
